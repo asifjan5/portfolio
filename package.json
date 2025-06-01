@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Simple portfolio app",
+  "description": "Asif's Portfolio Website",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
